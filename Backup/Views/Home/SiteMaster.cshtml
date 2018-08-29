@@ -1,0 +1,939 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutInfo.cshtml";
+}
+
+<div class="landing-page">
+    <div id="section-0">
+        <div class="navbar navbar-default" id="landing-header" role="navigation" landing-header style="background-color: #000 !important;">
+            <!-- start: TOP NAVIGATION CONTAINER -->
+            <div class="container">
+                <div class="navbar-header">
+                    <!-- start: RESPONSIVE MENU TOGGLER -->
+                    <a class="landing-menu-toggler btn btn-red hidden-sm hidden-md hidden-lg mobile-button" id="landing-menu-toggler" ng-click="landingNavbarCollapsed = !landingNavbarCollapsed">
+                        <span class="sr-only">Toggle navigation</span> <i class="fa fa-bars"></i>
+                    </a>
+                    <!-- end: RESPONSIVE MENU TOGGLER -->
+                    <!-- start: LOGO -->
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a href="/" class="navbar-brand">
+                                <img src="/Logos/logo-via-logohub (1).png" alt="Clip-Two" style="height: 30px;">
+                            </a>
+                        </div>
+                    </div>
+                    <!-- end: LOGO -->
+                </div>
+                <div class="navbar-collapse collapse" uib-collapse="landingNavbarCollapsed" ng-init="landingNavbarCollapsed = true" off-click="landingNavbarCollapsed = true" off-click-if='!landingNavbarCollapsed' off-click-filter="'#landing-menu-toggler'">
+                    <ul class="nav navbar-nav navbar-right" ct-fullheight="window" data-ct-fullheight-exclusion="#landing-header" data-ct-fullheight-if="isSmallDevice">
+                        <li class="active">
+                            <a href="#section-0" du-smooth-scroll du-scrollspy offset="30" ng-click="landingNavbarCollapsed = true">
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#section-1" du-smooth-scroll du-scrollspy offset="30" ng-click="landingNavbarCollapsed = true">
+                                Features
+                            </a>
+                        </li>
+                
+                        <li>
+                            <a href="#section-4" du-smooth-scroll du-scrollspy offset="30" ng-click="landingNavbarCollapsed = true">
+                                Pricing
+                            </a>
+                        </li>
+                   
+                        <li>
+                            <a href="/Account/Login" du-smooth-scroll du-scrollspy offset="30" ng-click="landingNavbarCollapsed = true">
+                                Log in
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Account/Signup" du-smooth-scroll du-scrollspy offset="30" ng-click="landingNavbarCollapsed = true">
+                                Sign Up
+                            </a>
+                        </li>
+                    </ul>
+                    <!-- start: MENU TOGGLER FOR MOBILE DEVICES -->
+                    <div class="close-handle visible-xs-block menu-toggler" ng-click="landingNavbarCollapsed = true" ng-swipe-up="landingNavbarCollapsed = true">
+                        <div class="arrow-left"></div>
+                        <div class="arrow-right"></div>
+                    </div>
+                    <!-- end: MENU TOGGLER FOR MOBILE DEVICES -->
+                </div>
+            </div>
+            <!-- end: TOP NAVIGATION CONTAINER -->
+        </div>
+        <div class="landing-content dots-left dots-white no-border">
+            <!-- start: CAROUSEL -->
+            <slick dots=true arrows=false infinite=false speed=300 autoplay=true autoplay-speed=6000 slides-to-show=1 slides-to-scroll=1 class="carousel">
+                <div class="slide" style="background: url('/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/carousel/carousel001.jpg')">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="caption">
+                                    <h1 class="text-white text-bold">
+                                        We are ready,
+                                        <br>
+                                        for POS and E-commarce
+                                        <br>
+                                        managing stuff
+                                        <br>
+                                        using our <b>storemey</b> business.
+                                    </h1>
+                                    <p class="text-white">
+                                        User can easily manage POS and Ecommarce with storemey team.
+                                    </p>
+                                    <p>
+                                        @*<button class="btn  margin-right-5" ui-sref="app.dashboard" role="button" v-pressable>
+                                            SEE DEMO
+                                        </button>*@
+                                        <a ui-sref="login.registration" href="/Account/Signup" class="btn btn-storemey-light">
+                                            Start with 14-Day Free trial, Click me.
+                                        </a>
+                                    </p>
+                                </div>
+                                <div class="image hidden-sm hidden-xs">
+                                    <img src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/desktop.png" alt="" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide" style="background: url('/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/carousel/carousel002.jpg')">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="caption">
+                                    <h1 class="text-white text-bold">
+                                        Hey
+                                        <br>
+                                        your solution is here!
+                                    </h1>
+                                    <p class="text-white">
+                                        storemey is the big part of Store management system.
+                                    </p>
+                                    <p>
+                                        <a ui-sref="login.registration" href="/Account/Login" class="btn btn-storemey-light">
+                                            Let me sign-in.
+                                        </a>
+                                    </p>
+                                </div>
+                                <div class="image hidden-sm hidden-xs">
+                                    <img src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/laptop.png" alt="" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </slick>
+            <!-- end: CAROUSEL -->
+        </div>
+        <section class="container-fluid container-fullw bg-storemey padding-top-70 no-border">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12" style="margin-top: 15px;" >
+                        <h2 class="" style="color:#BF9407; ">What is a Point of Sale (POS)?</h2>
+                        <hr />
+                    </div>
+                    <div class="col-md-12">
+                        @*<h4 class=" margin-bottom-15">What does point of sale (POS) mean?</h4>*@
+                        <p>
+                            The point at with a cardholder and a merchant complete a transaction. A point of sale is present both in online transactions as well as transactions that take place in brick and mortar stores.
+                        </p>
+                        <p>
+                            The point of sale (or POS) in retail industries uses a software as well as hardware, and this may include a manual or electronic cash register, scanners, weighing scales, touch screen terminals, and a wide variety of other software or hardware. An example of a point of sale in a traditional brick and mortar store is the scale used to weigh goods in a traditional grocery or candy store.
+                        </p>
+                        <p>
+                            Marketers put an emphasis on the POS for their products or services because consumers often making buying decisions at POS locations. Physical stores have traditionally placed their POS at store exits to increase impulse purchases by customers as they are leaving the store. Department stores have chosen to place POS at varying locations through their stores, as they’ve found this gives them the opportunity to focus on customers looking for specific product types and to influence them early in the sales funnel.
+                        </p>
+                        <p>
+                            The earliest POS systems were nothing more than written receipts, but retailers now prefer electronic POS systems. These streamline the sales process, as well as allowing the merchant to collect valuable sales data. A basic POS system might be nothing more than one cash register and the software necessary to collect sales data. These can be expanded and improved upon by adding more hardware, such as barcode scanners and card readers, or additional software modules.
+                        </p>
+                        <p>
+                            Depending on the software being used, merchants are able to track no only sales, but also inventory levels, gross revenues, profit margins, sales patterns and a host of other data points. This data can then be analyzed to increase profitability and pinpoint areas of weakness within the sales or inventory process. Sophisticated software can even automate ordering and restocking, as well as helping to tailor marketing based on consumer behaviour.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="container-fluid container-fullw bg-storemey no-border">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="" style="color:#BF9407; ">What is E-Commerce?</h2>
+                        <hr />
+                    </div>
+                    <div class="col-md-12">
+                        @*<h4 class="over-title margin-bottom-15">What does E-commarce mean?</h4>*@
+                        <p>
+                            Electronic commerce, commonly known as E-commerce or eCommerce, is trading
+                            in products or services using computer networks, such as the Internet. Electronic
+                            commerce draws on technologies such as mobile commerce, electronic funds transfer,
+                            supply chain management, Internet marketing, online transaction processing, electronic
+                            data interchange (EDI), inventory management systems, and automated data collection
+                            systems. Modern electronic commerce typically uses the World Wide Web for at least
+                            one part of the transaction's life cycle, although it may also use other technologies such as
+                            e-mail.
+                        </p>
+                        <p>
+                            E-commerce businesses may employ some or all of the following:
+                        </p>
+                        <p>
+                            Online shopping web sites for retail sales direct to consumers
+                        </p>
+                        <p>
+                            Business-to-business buying and selling
+                        </p>
+                        <p>
+                            Business-to-business electronic data interchange
+                        </p>
+                        <p>
+                            Marketing to prospective and established customers by e-mail or fax (for
+                            example, with newsletters)
+                        </p>
+                        <p>
+                            Engaging in pretail for launching new products and services
+                        </p>
+                     
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="container-fluid container-fullw bg-storemey no-border">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="" style="color:#BF9407; ">What is Online Shopping?</h2>
+                        <hr />
+                    </div>
+                    <div class="col-md-12">
+                        <p>
+                            he invention has opened a whole new world of possibilities for us. Not only we can
+                            communicate with the person we love within moments but nowadays many vital tasks
+                            like jobs, shopping, socializing and many others can be done easily at the convenience of
+                            our homes. The concept of online shopping is a relatively new one and it enables us to
+                            buy all our favourite goods and accessories over the internet. This not only saves time but
+                            also we can get the products at a much discounted price and that too at our homes. There
+                            are many online stores that have developed in recent times like letsshop.in, flipcart.com
+                            and many others. These stores host a wide range of products like bags, shoes, books,
+                            gadgets and many others. To purchase any product you have to visit the site and click on
+                            the product that you would like to purchase and the product will be delivered to you
+                            within a week maximum. It’s that simple.
+                        </p>
+                        <p>
+                            Online shopping saves us a huge amount of time. We can buy any of
+                            our favourite products from our home only and need not visit the malls.
+                        </p>
+                        <p>
+                            The products can be bought at a much discounted rate by
+                            shopping online. This is because online stores offer huge discounts and lucrative offers on
+                            the purchase of each and every product. This is done to attract more customers from all
+                            over the world.
+                        </p>
+                        <p>
+                            The products are freely shipped and delivered at our doorstep
+                            without any extra charge. Moreover if we find them not suited to our purpose we can
+                            return them without purchasing any time. Apart from that if we do purchase these items
+                            Rise of E-Commerce- The Indian Scenario
+                            Page 7 of 37
+                            and find them to be defective then we can return them within fourteen days of the
+                            purchase and we will get all the money back.
+
+                        </p>
+                        <p>
+                            Never again be limited geographically. Many
+                            merchants do not have physical stores in every state, and certainly not in every country.
+                            When you shop online, you can browse through stores around the block or around the
+                            globe! Discover amazing new items from exotic places that you perhaps have never even
+                            heard of before.
+                        </p>
+                        <p>
+                            You can shop anytime online 24 hours a day 7 days
+                            a week. Online stores never close, so you never have to worry about making time to go to
+                            the store. Online shopping is perfect for night owls or anyone who is just too busy to
+                            make a trip to the store. 
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+
+        </section>
+    </div>
+    <!-- start: SECTION 1 -->
+    <div id="section-1">
+        <section class="container-fluid container-fullw padding-bottom-30 section-features" style="background-color:#efe9ce">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-6 col-xs-offset-3 col-md-8 col-sm-8 col-md-offset-0 col-sm-offset-0">
+                        <h2 style="color:#000;">FEATURES</h2>
+                        <hr>
+                        <h4 class="over-title margin-bottom-15">Storemey is simple to use. There’s no fluff or excess.</h4> 
+                        <p class="margin-bottom-30">
+                            @*Nulla consequat massa quis enim. <strong>Donec pede justo</strong> fringilla vel, aliquet nec, vulputate eget, arcu.
+                            <br>
+                            In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.*@
+
+                            Storemey exactly conforms to the Work the System Method, it’s an intuitive and <strong>simple platform designed</strong> to make it easy for you to create, tweak and store your important datas.
+
+
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6 col-xs-offset-3 col-md-8 col-sm-8 col-md-offset-0 col-sm-offset-0">
+                        <div class="row" ng-appear="animationBlock1 = true">
+                            <div class="col-sm-6">
+                                <div class="">
+                                    <div class="block text-center" style="font-size: 30px;">
+                                        <i class="text-red fa ti-home fa-3x storemey-color-text-dark" ng-class="{'animated fadeInUp': animationBlock1}"></i>
+
+                                    </div>
+                                    <div ng-class="{'animated fadeInDown': animationBlock1}">
+                                        <div class="margin-top-20">
+                                            <h4 class="margin-bottom-25 text-uppercase cl-effect-3">
+                                                <a href="#" class="storemey-color-text">
+                                                    POS System
+                                                </a>
+                                            </h4>
+                                            <p>
+                                                At the point of sale, the merchant calculates the amount owed by the customer, indicates that amount, may prepare an invoice for the customer (which may be a cash register printout), and indicates the options for the customer to make payment. It is also the point at which a customer makes a payment to the merchant in exchange for goods or after provision of a service. After receiving payment, the merchant may issue a receipt for the transaction, which is usually printed but is increasingly being dispensed with or sent electronically.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="">
+                                    <div class="block text-center" style="font-size: 30px;">
+                                        <i class="text-red fa ti-shopping-cart fa-3x storemey-color-text-dark" ng-class="{'animated fadeInUp': animationBlock1}"></i>
+                                    </div>
+                                    <div ng-class="{'animated fadeInDown': animationBlock1}">
+                                        <div class="margin-top-20">
+                                            <h4 class="margin-bottom-25 text-uppercase cl-effect-3">
+                                                <a href="#" class="storemey-color-text">
+                                                    E-commarce
+                                                </a>
+                                            </h4>
+                                            <p>
+                                                E-commerce is the activity of buying or selling of products on online services or over the Internet. Electronic commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems.e
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" ng-appear="animationBlock2 = true">
+                            <div class="col-sm-6">
+                                <div class="">
+                                    <div class="block text-center" style="font-size: 30px;">
+                                        <i class="text-red fa  ti-control-shuffle fa-3x storemey-color-text-dark" ng-class="{'animated fadeInUp': animationBlock2}"></i>
+                                    </div>
+                                    <div ng-class="{'animated fadeInDown': animationBlock2}">
+                                        <div class="margin-top-20">
+                                            <h4 class="margin-bottom-25 text-uppercase cl-effect-3">
+                                                <a href="#" class="storemey-color-text">
+                                                    Integration
+                                                </a>
+                                            </h4>
+                                            <p>
+                                                Integrated business management software that helps organizations automate processes related to product planning, manufacturing, marketing and sales, inventory management, finances, shipping and human resources.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="">
+                                    <div class="block text-center" style="font-size: 30px;">
+                                        <i class="text-red fa ti-credit-card fa-3x storemey-color-text-dark" ng-class="{'animated fadeInUp': animationBlock2}"></i>
+                                    </div>
+                                    <div ng-class="{'animated fadeInDown': animationBlock2}">
+                                        <div class="margin-top-20">
+                                            <h4 class="margin-bottom-25 text-uppercase cl-effect-3">
+                                                <a href="#" class="storemey-color-text">
+                                                    Payments methodologies
+                                                </a>
+                                            </h4>
+                                            <p>
+                                                The online equivalent of a cash register connecting websites to credit card carriers so that online credit card transactions can be completed in real time.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="container-fluid container-fullw bg-storemey padding-bottom-0 overflow-hidden">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h2>Let’s get started! First, make sure that you have all the necessary things required to install Storemey apllication.</h2>
+                        <hr>
+                        <p class="margin-bottom-30">
+                            @*Nulla consequat massa quis enim. <strong>Donec pede justo</strong> fringilla vel, aliquet nec, vulputate eget, arcu.
+                            <br>
+                            In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.*@
+                            We have got everything ready for you.<br> So, kickstart your website with ready-made content and settings so that you don't have to spend hours for making your website from scatch!
+                        </p>
+                        <img src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/graphic.jpg" class="img-responsive inline-block" ng-appear="animationBlock3 = true" ng-class="{'animated fadeInUp': animationBlock3}" />
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="container-fluid container-fullw no-padding no-border div-storemey-light">
+            <a class="btn btn-storemey-light btn-block no-radius wrap">
+                <div class="container clearfix margin-top-35 margin-bottom-35">
+                    <h2 class="no-margin text-white">Here, we are carefully manage your bussness documents and data.</h2>
+                </div>
+            </a>
+        </section>
+    </div>
+    <!-- end: SECTION 1 -->
+    <!-- start: SECTION 2 -->
+    @*<div id="section-2">
+            <section class="container-fluid container-fullw padding-bottom-30 bg-white no-border section-testimonials">
+                <div class="container">
+                    <div class="row padding-bottom-40">
+                        <div class="col-md-12">
+                            <h2 class="center padding-top-30 padding-bottom-30">WHAT OUR CUSTOMERS SAY ABOUT US</h2>
+                            <div id="testimonial" ng-appear="animationBlock4 = true">
+                                <slick dots=true infinite=false speed=300 slides-to-show=1 slides-to-scroll=1>
+                                    <div class="padding-left-50 padding-right-50">
+                                        <div class="testimonial-container center">
+                                            <img src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-1.jpg" class="img-circle testimonial-thumb" alt="" ng-class="{'animated flipInY': animationBlock4}" />
+                                            <p class="testimonial_author" ng-class="{'animated fadeInDown': animationBlock4}">
+                                                Robert Kelley - <span class="author_company text-red">Apple Inc</span>
+                                            </p>
+                                            <h4 class="testimonial-text" ng-class="{'animated fadeInUp': animationBlock4}">Lorem ipsum dolor sit amet, feugiat delicata liberavisse id cum, no quo maiorum intellegebat, liber regione eu sit. Mea cu case ludus integre, vide viderer eleifend ex mea. His ay diceret, cum et atqui placerat.</h4>
+                                        </div>
+                                    </div>
+                                    <div class="padding-left-50 padding-right-50">
+                                        <div class="testimonial-container center">
+                                            <img src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-2.jpg" class="img-circle testimonial-thumb" alt="" ng-class="{'animated flipInY': animationBlock4}" />
+                                            <p class="testimonial_author" ng-class="{'animated fadeInDown': animationBlock4}">
+                                                William Greeson - <span class="author_company text-red">Microsoft Corporation</span>
+                                            </p>
+                                            <h4 class="testimonial-text" ng-class="{'animated fadeInUp': animationBlock4}">Etiam interdum elementum elit interdum vulputate. Vivamus tristique, dolor ut sodales pulvinar, diam metus facilisis dui, vel pretium ex elit non dui.</h4>
+                                        </div>
+                                    </div>
+                                    <div class="padding-left-50 padding-right-50">
+                                        <div class="testimonial-container center">
+                                            <img src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-3.jpg" class="img-circle testimonial-thumb" alt="" ng-class="{'animated flipInY': animationBlock4}" />
+                                            <p class="testimonial_author" ng-class="{'animated fadeInDown': animationBlock4}">
+                                                Angela N. Seaton - <span class="author_company text-red">Amazon.com</span>
+                                            </p>
+                                            <h4 class="testimonial-text" ng-class="{'animated fadeInUp': animationBlock4}">Suspendisse mauris nunc, luctus suscipit volutpat sed, sodales non mi. Quisque pretium gravida urna maximus imperdiet. In blandit nisi ipsum.</h4>
+                                        </div>
+                                    </div>
+                                </slick>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="margin-bottom-40" />
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="media padding-left-10 padding-right-10">
+                                <a href="#" class="pull-left">
+                                    <img alt="image" class="img-circle testimonial-thumb" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-6.jpg">
+                                </a>
+                                <div class="media-body ">
+                                    <strong>Todd S. Smith</strong> - <strong class="text-red">Amazon.com</strong>
+                                    <br>
+                                    <small class="text-light">Today 4:55 PM</small>
+                                    <div class="well padding-15 margin-top-15">
+                                        In placerat feugiat odio a ullamcorper. Aliquam vel justo vel nisl sollicitudin bibendum. Donec a vehicula risus, a pellentesque metus.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="media padding-left-10 padding-right-10">
+                                <a href="#" class="pull-left">
+                                    <img alt="image" class="img-circle testimonial-thumb" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-7.jpg">
+                                </a>
+                                <div class="media-body ">
+                                    <strong>Leslie M. Day</strong> - <strong class="text-red">Apple Inc</strong>
+                                    <br>
+                                    <small class="text-light">Today 10:28 AM</small>
+                                    <div class="well padding-15 margin-top-15">
+                                        Sed feugiat iaculis dignissim. Nam sed sem a nisl porttitor fermentum nec et ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="media padding-left-10 padding-right-10">
+                                <a href="#" class="pull-left">
+                                    <img alt="image" class="img-circle testimonial-thumb" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-10.jpg">
+                                </a>
+                                <div class="media-body ">
+                                    <strong>Francisco S. Harding</strong> - <strong class="text-red">Apple Inc</strong>
+                                    <br>
+                                    <small class="text-light">Yesterday 3:52 PM</small>
+                                    <div class="well padding-15 margin-top-15">
+                                        Suspendisse vel felis lorem. Phasellus interdum, est ut fringilla tristique, purus arcu congue magna, sit amet ornare neque purus sed nisl.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="media padding-left-10 padding-right-10">
+                                <a href="#" class="pull-left">
+                                    <img alt="image" class="img-circle testimonial-thumb" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-11.jpg">
+                                </a>
+                                <div class="media-body ">
+                                    <strong>Manuel Barnhardt</strong> - <strong class="text-red">Microsoft Corporation</strong>
+                                    <br>
+                                    <small class="text-light">Yesterday 6:11 PM</small>
+                                    <div class="well padding-15 margin-top-15">
+                                        Curabitur facilisis pretium cursus. Nulla aliquam mauris ac tortor condimentum, eu tempor ante efficitur. Nunc vestibulum nibh quis dolor scelerisque dapibus eget a est.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="container-fluid container-fullw padding-bottom-30 bg-black">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="padding-40 text-center" ng-appear="countTo1 = 8522">
+                                <i class="fa fa-code fa-4x text-red"></i>
+                                <span class="block counter" count-to="{{countTo1}}" value="0" duration="1" filter="number">8522</span>
+                                <hr class="white-line" />
+                                <p class="block text-light">
+                                    LINES OF CODE
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="padding-40 text-center" ng-appear="countTo2 = 532">
+                                <i class="fa fa-folder-open fa-4x text-red"></i>
+                                <span class="block counter" count-to="{{countTo2}}" value="0" duration="1" filter="number">532</span>
+                                <hr class="white-line" />
+                                <p class="block text-light">
+                                    ANNUAL PROJECTS
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="padding-40 text-center" ng-appear="countTo3 = 118">
+                                <i class="fa fa-line-chart fa-4x text-red"></i>
+                                <div class="block">
+                                    <span class="counter" count-to="{{countTo3}}" value="0" duration="1" filter="number">118</span>
+                                    <span class="counter-symbol">%</span>
+                                </div>
+                                <hr class="white-line" />
+                                <p class="block text-light">
+                                    AVERAGE PROFIT MARKUP
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="padding-40 text-center" ng-appear="countTo4 = 4832">
+                                <i class="fa fa-child fa-4x text-red"></i>
+                                <span class="block counter" count-to="{{countTo4}}" value="0" duration="1" filter="number">4832</span>
+                                <hr class="white-line" />
+                                <p class="block text-light">
+                                    SATISFIED CUSTOMERS
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="container-fluid container-fullw padding-bottom-30 bg-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-4 text-center">
+                            <img class="img-responsive inline margin-top-40" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/iphone.png" ng-appear="animationBlock5 = true" ng-class="{'animated fadeInLeft': animationBlock5}">
+                        </div>
+                        <div class="col-sm-8">
+                            <h2 class="margin-top-30">Ultra-Responsive Design</h2>
+                            <p>
+                                Lid est laborum dolo rumes fugats untras. Etha rums ser quidem rerum facilis dolores nemis onis fugats vitaes nemo minima rerums unsers sadips amets.
+                            </p>
+                            <p>
+                                Ut enim ad minim veniam, quis nostrud Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci amets uns.
+                            </p>
+                            <p>
+                                Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips ameet quasi architecto beatae vitae dicta sunt explicabo.
+                            </p>
+                            <button type="button" class="btn btn-red btn-wide btn-scroll btn-scroll-top fa-arrow-right">
+                                <span>Learn more...</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>*@
+    <!-- end: SECTION 2 -->
+    <!-- start: SECTION 3 -->
+    @*<div id="section-3">
+            <section class="container-fluid container-fullw padding-bottom-30">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2 class="text-center">Team Members</h2>
+                            <hr />
+                            <p class="text-center">
+                                Nulla consequat massa quis enim. <strong>Donec pede justo</strong> fringilla vel, aliquet nec, vulputate eget, arcu.
+                                <br>
+                                In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+                            </p>
+                            <div class="row">
+                                <div>
+                                    <ul class="team-list list-unstyled">
+                                        <li class="col-xs-6 col-md-3">
+                                            <div>
+                                                <div class="thumb icons-effect margin-bottom-15">
+                                                    <img alt="" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-4.jpg" class="img-responsive img-rounded">
+                                                    <div class="mask img-rounded">
+                                                        <div class="icons-wrapper">
+                                                            <div class="icons">
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-facebook fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <h3>Micheal Hanson</h3>
+                                                <div class="text-small margin-bottom-5">
+                                                    Junior Developer
+                                                </div>
+                                                <div class="team-member-description">
+                                                    <p class="text-dark">
+                                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <strong>Lorem ipsum dolor</strong> sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="col-xs-6 col-md-3">
+                                            <div>
+                                                <div class="thumb icons-effect margin-bottom-15">
+                                                    <img alt="" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-5.jpg" class="img-responsive img-rounded">
+                                                    <div class="mask img-rounded">
+                                                        <div class="icons-wrapper">
+                                                            <div class="icons">
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-twitter fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-facebook fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <h3>Caroline Garrett</h3>
+                                                <div class="text-small margin-bottom-5">
+                                                    Web Editor
+                                                </div>
+                                                <div class="team-member-description">
+                                                    <p class="text-dark">
+                                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <strong>Lorem ipsum dolor</strong> sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="col-xs-6 col-md-3">
+                                            <div>
+                                                <div class="thumb icons-effect margin-bottom-15">
+                                                    <img alt="" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-6.jpg" class="img-responsive img-rounded">
+                                                    <div class="mask img-rounded">
+                                                        <div class="icons-wrapper">
+                                                            <div class="icons">
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-facebook fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <h3>Wilbert Thomas</h3>
+                                                <div class="text-small margin-bottom-5">
+                                                    UI Designer
+                                                </div>
+                                                <div class="team-member-description">
+                                                    <p class="text-dark">
+                                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <strong>Lorem ipsum dolor</strong> sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="col-xs-6 col-md-3">
+                                            <div>
+                                                <div class="thumb icons-effect margin-bottom-15">
+                                                    <img alt="" src="/Content/StoremeyTheme/ANGULARJS/LAYOUT-1/STANDARD/assets/images/team-7.jpg" class="img-responsive img-rounded">
+                                                    <div class="mask img-rounded">
+                                                        <div class="icons-wrapper">
+                                                            <div class="icons">
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-twitter fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                                <a class="icon" href="#">
+                                                                    <span class="fa-stack fa-2x"> <i class="fa fa-circle fa-stack-2x text-red"></i> <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i> </span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <h3>Kim Logan</h3>
+                                                <div class="text-small margin-bottom-5">
+                                                    Project Account Manager
+                                                </div>
+                                                <div class="team-member-description">
+                                                    <p class="text-dark">
+                                                        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <strong>Lorem ipsum dolor</strong> sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>*@
+    <!-- end: SECTION 3 -->
+    <!-- start: SECTION 4 -->
+    <div id="section-4">
+        <section class="container-fluid container-fullw padding-bottom-30 bg-storemey">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="text-center">Pricing</h2>
+                        <hr />
+                        <p class="text-center">
+                            @*Nulla consequat massa quis enim. <strong>Donec pede justo</strong> fringilla vel, aliquet nec, vulputate eget, arcu.
+                            <br>
+                            In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.*@
+                            In commerce, price is determined by what (1) a buyer is willing to pay, (2) a seller is willing to accept, and (3) the competition is allowing to be charged.
+                            <br>With product, promotion, and place of marketing mix, it is one of the business variables over which organizations can exercise some degree of control.
+
+                        </p>
+                        <div class="pricing-table pricing-blue">
+                            <div class="col-lg-3 col-md-3 col-xs-6">
+                                <ul class="plan plan1">
+                                    <li class="plan-name bg-storemey-dark">
+                                        Basic
+                                    </li>
+                                    <li class="plan-price bg-storemey-light">
+                                        <h3> $19 <span class="price-cents">99</span><span class="price-month">/month</span></h3>
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text" >5GB</strong> Storage
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">1GB</strong> RAM
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">400GB</strong> Bandwidth
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">10</strong> Email Address
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">Forum</strong> Support
+                                    </li>
+                                    <li class="plan-action">
+                                        <a href="#" class="btn btn-storemey-dark btn-lg">
+                                            Signup
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-xs-6">
+                                <ul class="plan ">
+                                    <li class="plan-name bg-storemey-dark">
+                                        Standard
+                                    </li>
+                                     <li class="plan-price bg-storemey-light">
+                                        <h3> $29 <span class="price-cents">99</span><span class="price-month">/month</span></h3>
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text" >5GB</strong> Storage
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">1GB</strong> RAM
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">400GB</strong> Bandwidth
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">10</strong> Email Address
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">Forum</strong> Support
+                                    </li>
+                                    <li class="plan-action">
+                                       <a href="#" class="btn btn-storemey-dark btn-lg">
+                                            Signup
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-xs-6">
+                                <ul class="plan plan3">
+                                    <li class="plan-name bg-storemey-dark">
+                                        Advanced
+                                    </li>
+                                     <li class="plan-price bg-storemey-light">
+                                        <h3> $49 <span class="price-cents">99</span><span class="price-month">/month</span></h3>
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">50GB</strong> Storage
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">8GB</strong> RAM
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">1024GB</strong> Bandwidth
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">Unlimited</strong> Email Address
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">Forum</strong> Support
+                                    </li>
+                                    <li class="plan-action">
+                                       <a href="#" class="btn btn-storemey-dark btn-lg">
+                                            Signup
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-xs-6">
+                                <ul class="plan plan4">
+                                    <li class="plan-name bg-storemey-dark">
+                                        Mighty
+                                    </li>
+                                     <li class="plan-price bg-storemey-light">
+                                        <h3> $99 <span class="price-cents">99</span><span class="price-month">/month</span></h3>
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">50GB</strong> Storage
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">8GB</strong> RAM
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">1024GB</strong> Bandwidth
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">Unlimited</strong> Email Address
+                                    </li>
+                                    <li>
+                                        <strong class="storemey-color-text">Forum</strong> Support
+                                    </li>
+                                    <li class="plan-action">
+                                       <a href="#" class="btn btn-storemey-dark btn-lg">
+                                            Signup
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- end: SECTION 4 -->
+    <!-- start: SECTION 5 -->
+    <div id="section-5">
+        <section class="container-fluid container-fullw padding-bottom-30 section-contact" style="background-color:#efe9ce;">
+            <div class="container">
+                @*<div class="row">
+                    <div class="col-md-12">
+                        <h2 class="text-center">Contact Us</h2>
+                        <p class="center margin-bottom-30">
+                            Nulla consequat massa quis enim. <strong>Donec pede justo</strong> fringilla vel, aliquet nec, vulputate eget, arcu.
+                            <br>
+                            In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+                        </p>
+                    </div>
+                </div>*@
+                @*<div class="row">
+                        <div class="col-lg-3 col-lg-offset-3">
+                            <address>
+                                <h4 class="margin-bottom-5 text-red">Main Office:</h4>
+                                1234 Street Name
+                                <br>
+                                City Name, United States
+                                <br>
+                                <abbr title="Phone">P:</abbr> (123) 456-7890
+                            </address>
+                        </div>
+                        <div class="col-lg-4">
+                            <h4 class="margin-bottom-5 text-red">Get in touch</h4>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus.
+                            </p>
+                        </div>
+                    </div>*@
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <a href="mailto:Support@Storemey.com" class="btn btn-storemey-light margin-top-30">
+                            Subscribe to Our Newsletter
+                        </a>
+                        <p class="margin-top-10">
+                            Or follow us on your favorite social media sites
+                        </p>
+                        <div class="social-icons">
+                            <ul>
+                                <li class="social-twitter" uib-tooltip="Twitter" tooltip-placement="top">
+                                    <a target="_blank" href="#">
+                                        Twitter
+                                    </a>
+                                </li>
+                                <li class="social-linkedin" uib-tooltip="Linkedin" tooltip-placement="top">
+                                    <a target="_blank" href="#">
+                                        Linkedin
+                                    </a>
+                                </li>
+                                <li class="social-facebook" uib-tooltip="Facebook" tooltip-placement="top">
+                                    <a target="_blank" href="#">
+                                        Facebook
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <p class="margin-top-20">
+                            @*&copy; {{app.year}} <span class="text-bold text-uppercase">{{ app.author }}</span>. <span translate="footer.copyright.MESSAGE">All rights reserved</span>
+                                <br>
+                                Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus.*@
+
+                            Copyright © @DateTime.Now.Year.ToString() Storemey, All rights reserved.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- end: SECTION 5 -->
+</div>

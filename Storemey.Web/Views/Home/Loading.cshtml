@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Loading</title>
+
+    @*<link rel="stylesheet/scss" type="text/css" href="/Views/Home/_demo.scss">*@
+
+    <link href="~/Views/Home/_loading.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="loader"></div>
+</body>
+</html>
+<script src="/Content/StoremeyTheme/ANGULARJS/bower_components/jquery/dist/jquery.min.js"></script>
+
+
+<script type="text/javascript" >
+      $(document).ready(function () {
+
+        setTimeout(
+            function () {
+                window.location.href = "@ViewBag.redirectURL";
+            }, parseInt("@ViewBag.LoadingTimeinsecond"));
+            
+    });
+
+</script>

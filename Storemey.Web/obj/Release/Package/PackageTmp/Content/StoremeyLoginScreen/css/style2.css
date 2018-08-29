@@ -1,0 +1,47 @@
+
+
+.tab-group {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+.tab-group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+    .tab-group li a {
+        display: block;
+        text-decoration: none;
+        padding: 15px;
+        background: #fff;
+        color: #000;
+        font-size: 20px;
+        float: left;
+        width: 50%;
+        text-align: center;
+        cursor: pointer;
+        transition: .5s ease;
+        /*border: 0.5px solid #000;*/
+    }
+        .tab-group li a:hover {
+            background: #000;
+            color: #ffffff;
+        }
+    .tab-group .active a {
+        background: #BF9407;
+        color: #ffffff;
+    }
+
+.tab-content > div:last-child {
+  display: none;
+}
+
+
+input:required {
+    box-shadow: none !important;
+}
+
+input:invalid {
+    box-shadow: none !important;
+}

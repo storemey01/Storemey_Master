@@ -1,0 +1,351 @@
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Storemey.Core.dll.config
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Storemey.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Storemey.Core.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Win32.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\netstandard.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.AppContext.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Collections.Concurrent.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Collections.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Collections.NonGeneric.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Collections.Specialized.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.ComponentModel.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.ComponentModel.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Console.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Data.Common.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Contracts.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Debug.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Process.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.StackTrace.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Tools.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.TraceSource.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Tracing.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Drawing.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Dynamic.Runtime.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Globalization.Calendars.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Globalization.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Globalization.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.Compression.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.Compression.ZipFile.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.FileSystem.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.IsolatedStorage.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.Pipes.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Linq.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Linq.Expressions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Linq.Parallel.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Linq.Queryable.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.Http.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.NameResolution.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.NetworkInformation.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.Ping.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.Requests.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.Security.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.Sockets.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.WebHeaderCollection.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.WebSockets.Client.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Net.WebSockets.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.ObjectModel.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Reflection.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Reflection.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Reflection.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Resources.Reader.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Resources.ResourceManager.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Resources.Writer.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.Handles.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.InteropServices.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.Numerics.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.Serialization.Json.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Claims.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.Csp.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Principal.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.SecureString.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Text.Encoding.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Text.Encoding.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Text.RegularExpressions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Threading.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Threading.Overlapped.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Threading.Tasks.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Threading.Thread.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Threading.ThreadPool.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Threading.Timer.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.ValueTuple.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Xml.ReaderWriter.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Xml.XDocument.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Xml.XmlDocument.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Xml.XmlSerializer.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Xml.XPath.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Xml.XPath.XDocument.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.Zero.Common.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.Zero.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Castle.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Castle.Facilities.Logging.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Castle.Windsor.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\JetBrains.Annotations.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Options.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Newtonsoft.Json.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Concurrent.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Context.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Coordination.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Enlightenment.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Tasks.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.Collections.Deque.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.Disposables.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Buffers.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Collections.Immutable.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.ComponentModel.Annotations.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Linq.Dynamic.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Memory.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Numerics.Vectors.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.AccessControl.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Permissions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Security.Principal.Windows.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Xml.XPath.XmlDocument.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\TimeZoneConverter.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.Zero.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.Zero.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.Zero.Common.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Abp.Zero.Common.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Castle.Core.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Castle.Facilities.Logging.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Castle.Windsor.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\JetBrains.Annotations.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Options.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Newtonsoft.Json.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Concurrent.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Context.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Coordination.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Enlightenment.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Tasks.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.Collections.Deque.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\Nito.Disposables.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Buffers.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Collections.Immutable.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Linq.Dynamic.Core.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Memory.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Numerics.Vectors.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\bin\Release\TimeZoneConverter.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\obj\Release\Storemey.Core.csproj.CoreCompileInputs.cache
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\obj\Release\Storemey.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.Core\obj\Release\Storemey.Core.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Storemey.Core.dll.config
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Storemey.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Storemey.Core.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Win32.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\netstandard.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.AppContext.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Collections.Concurrent.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Collections.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Collections.NonGeneric.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Collections.Specialized.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.ComponentModel.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.ComponentModel.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Console.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Data.Common.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Contracts.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Debug.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Process.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.StackTrace.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Tools.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.TraceSource.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Diagnostics.Tracing.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Drawing.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Dynamic.Runtime.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Globalization.Calendars.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Globalization.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Globalization.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.Compression.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.Compression.ZipFile.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.FileSystem.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.IsolatedStorage.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.Pipes.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Linq.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Linq.Expressions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Linq.Parallel.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Linq.Queryable.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.Http.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.NameResolution.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.NetworkInformation.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.Ping.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.Requests.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.Security.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.Sockets.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.WebHeaderCollection.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.WebSockets.Client.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Net.WebSockets.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.ObjectModel.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Reflection.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Reflection.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Reflection.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Resources.Reader.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Resources.ResourceManager.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Resources.Writer.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.Handles.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.InteropServices.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.Numerics.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.Serialization.Json.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Claims.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.Csp.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Principal.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.SecureString.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Text.Encoding.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Text.Encoding.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Text.RegularExpressions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Threading.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Threading.Overlapped.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Threading.Tasks.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Threading.Thread.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Threading.ThreadPool.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Threading.Timer.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.ValueTuple.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Xml.ReaderWriter.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Xml.XDocument.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Xml.XmlDocument.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Xml.XmlSerializer.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Xml.XPath.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Xml.XPath.XDocument.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.Zero.Common.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.Zero.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Castle.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Castle.Facilities.Logging.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Castle.Windsor.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\JetBrains.Annotations.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Options.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Newtonsoft.Json.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Concurrent.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Context.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Coordination.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Enlightenment.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Tasks.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.Collections.Deque.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.Disposables.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Buffers.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Collections.Immutable.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.ComponentModel.Annotations.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Linq.Dynamic.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Memory.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Numerics.Vectors.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.AccessControl.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Permissions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Security.Principal.Windows.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Xml.XPath.XmlDocument.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\TimeZoneConverter.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.Zero.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.Zero.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.Zero.Common.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Abp.Zero.Common.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Castle.Core.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Castle.Facilities.Logging.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Castle.Windsor.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\JetBrains.Annotations.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Options.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Newtonsoft.Json.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Concurrent.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Context.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Coordination.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Enlightenment.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.AsyncEx.Tasks.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.Collections.Deque.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\Nito.Disposables.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Buffers.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Collections.Immutable.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Linq.Dynamic.Core.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Memory.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Numerics.Vectors.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\bin\Release\TimeZoneConverter.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\obj\Release\Storemey.Core.csprojResolveAssemblyReference.cache
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\obj\Release\Storemey.Core.csproj.CoreCompileInputs.cache
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\obj\Release\Storemey.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.Core\obj\Release\Storemey.Core.pdb

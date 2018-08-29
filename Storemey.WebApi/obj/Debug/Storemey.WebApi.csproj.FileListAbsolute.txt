@@ -1,0 +1,884 @@
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.dll.config
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\netstandard.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.AppContext.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Concurrent.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Collections.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Collections.NonGeneric.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Specialized.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Console.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Data.Common.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Debug.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Process.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Tools.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Drawing.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Dynamic.Runtime.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.Calendars.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.Compression.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.Pipes.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Linq.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Expressions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Parallel.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Queryable.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.NameResolution.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.NetworkInformation.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.Ping.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.Requests.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.Security.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.Sockets.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebSockets.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ObjectModel.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Resources.Reader.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Resources.ResourceManager.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Resources.Writer.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Handles.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.InteropServices.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Numerics.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Claims.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Principal.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.SecureString.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Text.Encoding.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Text.RegularExpressions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Threading.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Overlapped.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Tasks.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Thread.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Threading.ThreadPool.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Timer.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XDocument.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XmlDocument.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.Collection.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Castle.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Castle.Facilities.Logging.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Castle.Windsor.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\JetBrains.Annotations.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Context.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Coordination.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Tasks.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.Collections.Deque.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.Disposables.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Owin.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Swashbuckle.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Buffers.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Immutable.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Memory.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Numerics.Vectors.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.AccessControl.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Permissions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Security.Principal.Windows.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ValueTuple.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.Owin.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.XmlDocument.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\TimeZoneConverter.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\WebActivatorEx.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Web.Administration.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.dll.config
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.dll.config
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.pdb
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Castle.Core.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Castle.Facilities.Logging.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Castle.Windsor.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\JetBrains.Annotations.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Context.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Coordination.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Tasks.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.Collections.Deque.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\Nito.Disposables.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Buffers.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Immutable.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Memory.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Numerics.Vectors.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.ValueTuple.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.Owin.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\bin\Debug\TimeZoneConverter.xml
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.csprojResolveAssemblyReference.cache
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.csproj.CoreCompileInputs.cache
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.dll
+D:\Storemey Projects\Projects\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.dll.config
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\netstandard.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.AppContext.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Concurrent.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.NonGeneric.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Specialized.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Console.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Data.Common.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Debug.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Process.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Tools.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Drawing.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Dynamic.Runtime.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.Calendars.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.Compression.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.Pipes.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Expressions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Parallel.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Queryable.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.NameResolution.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.NetworkInformation.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Ping.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Requests.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Security.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Sockets.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebSockets.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ObjectModel.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Resources.Reader.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Resources.ResourceManager.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Resources.Writer.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Handles.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.InteropServices.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Numerics.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Claims.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Principal.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.SecureString.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Text.Encoding.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Text.RegularExpressions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Overlapped.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Tasks.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Thread.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.ThreadPool.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Timer.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XDocument.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XmlDocument.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.Collection.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Facilities.Logging.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Windsor.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\JetBrains.Annotations.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Context.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Coordination.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Tasks.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.Collections.Deque.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.Disposables.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Owin.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Swashbuckle.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Buffers.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Immutable.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Memory.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.AccessControl.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Permissions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Principal.Windows.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ValueTuple.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.Owin.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.XmlDocument.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\TimeZoneConverter.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\WebActivatorEx.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Web.Administration.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.dll.config
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.dll.config
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.pdb
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Core.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Facilities.Logging.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Windsor.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\JetBrains.Annotations.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Context.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Coordination.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Tasks.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.Collections.Deque.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\Nito.Disposables.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Buffers.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Immutable.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Memory.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.ValueTuple.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.Owin.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\bin\Debug\TimeZoneConverter.xml
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.csprojResolveAssemblyReference.cache
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.csproj.CoreCompileInputs.cache
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.dll
+D:\Projects\storemey-Master\Master-Project\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.dll.config
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\netstandard.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.AppContext.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Concurrent.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Collections.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Collections.NonGeneric.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Specialized.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Console.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Data.Common.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Debug.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Process.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Tools.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Drawing.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Dynamic.Runtime.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.Calendars.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.Compression.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.Pipes.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Linq.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Expressions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Parallel.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Queryable.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.NameResolution.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.NetworkInformation.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.Ping.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.Requests.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.Security.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.Sockets.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebSockets.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ObjectModel.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Resources.Reader.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Resources.ResourceManager.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Resources.Writer.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Handles.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.InteropServices.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Numerics.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Claims.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Principal.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.SecureString.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Text.Encoding.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Text.RegularExpressions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Threading.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Overlapped.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Tasks.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Thread.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Threading.ThreadPool.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Timer.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XDocument.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XmlDocument.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.Collection.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Castle.Core.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Castle.Facilities.Logging.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Castle.Windsor.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\JetBrains.Annotations.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Context.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Coordination.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Tasks.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.Collections.Deque.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.Disposables.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Owin.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Swashbuckle.Core.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Buffers.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Immutable.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Memory.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.AccessControl.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Permissions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Security.Principal.Windows.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ValueTuple.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.Owin.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.XmlDocument.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\TimeZoneConverter.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\WebActivatorEx.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Web.Administration.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.dll.config
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.dll.config
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.pdb
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Castle.Core.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Castle.Facilities.Logging.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Castle.Windsor.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\JetBrains.Annotations.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Context.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Coordination.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Tasks.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.Collections.Deque.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\Nito.Disposables.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Buffers.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Immutable.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Memory.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.ValueTuple.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.Owin.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\bin\Debug\TimeZoneConverter.xml
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.csprojResolveAssemblyReference.cache
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.csproj.CoreCompileInputs.cache
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.dll
+D:\Projects\Storemey_Master\Master_Project02\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.dll.config
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.WebApi.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\netstandard.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.AppContext.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Concurrent.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.NonGeneric.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Specialized.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Console.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Data.Common.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Debug.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Process.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Tools.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Drawing.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Dynamic.Runtime.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.Calendars.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Globalization.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.Compression.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.Pipes.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Expressions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Parallel.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Queryable.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.NameResolution.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.NetworkInformation.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Ping.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Requests.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Security.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Sockets.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.WebSockets.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ObjectModel.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Resources.Reader.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Resources.ResourceManager.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Resources.Writer.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Handles.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.InteropServices.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Numerics.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Claims.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Principal.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.SecureString.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Text.Encoding.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Text.RegularExpressions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Overlapped.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Tasks.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Thread.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.ThreadPool.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Threading.Timer.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XDocument.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XmlDocument.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.Collection.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Core.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Facilities.Logging.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Windsor.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\JetBrains.Annotations.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Context.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Coordination.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Tasks.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.Collections.Deque.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.Disposables.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Owin.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Swashbuckle.Core.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Buffers.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Immutable.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Memory.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.AccessControl.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Permissions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Security.Principal.Windows.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ValueTuple.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.Owin.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Xml.XPath.XmlDocument.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\TimeZoneConverter.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\WebActivatorEx.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Web.Administration.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Application.dll.config
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Storemey.Core.dll.config
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.AutoMapper.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Api.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Web.Common.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Abp.Zero.Common.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.pdb
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\AutoMapper.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Core.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Facilities.Logging.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Castle.Windsor.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\JetBrains.Annotations.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Context.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Coordination.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.AsyncEx.Tasks.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.Collections.Deque.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\Nito.Disposables.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Buffers.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Collections.Immutable.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Memory.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.ValueTuple.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.Owin.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\bin\Debug\TimeZoneConverter.xml
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.csprojResolveAssemblyReference.cache
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.csproj.CoreCompileInputs.cache
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.dll
+D:\Projects\Storemey_Master\Master_Project\Storemey\Storemey.WebApi\obj\Debug\Storemey.WebApi.pdb
